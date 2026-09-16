@@ -3,4 +3,4 @@ node_modules
 .tmp
 npm-debug.log
 
-log_folder/
+log_folder/log*
